@@ -9,8 +9,6 @@
 ## Collections Insomnia:
 [Clique aqui](Insomnia_2022-07-04.yaml)
 
-### Projeto exclusivo Avanade <> GamaAcademy
-
 #### Publicando na Azure
 -----------------------
 
